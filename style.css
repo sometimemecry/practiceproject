@@ -1,0 +1,36 @@
+#header,#denotes{
+  text-align: center;
+}
+html{
+  background-image: url(https://wallpapershome.com/images/wallpapers/ios-11-1920x1080-4k-5k-beach-ocean-13655.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.detail {
+  text-align: center;
+  line-height: 1.5em;
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color: white;
+  opacity: 0.9;
+}
+
+input[type="text"]{
+  border-radius: 5px;
+}
+
+.buttons {
+  margin-top: 30px;
+  text-align: center;
+}
+button[type="submit"] {
+  padding: 10px 20px;
+  background-color:skyblue;
+  opacity: 0.8;
+  color: black;
+  border-radius: 5px;
+}
